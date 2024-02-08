@@ -27,3 +27,17 @@ p.card-text{
 #button{
     background-color: #DC8686;
 }
+.img1{
+    margin-left: 15px;
+    margin-top: 30px;
+}
+#images{
+    text-align: center;
+}
+#heading{
+    color:#a26969;
+    text-align: center;
+    margin-top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
