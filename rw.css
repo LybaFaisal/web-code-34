@@ -12,3 +12,18 @@ a.navbar-brand{
 blockquote{
    color: #643843; 
 }
+.additional-content{
+    font-size: 20px;
+    margin-left: 3px;
+    margin-top: 25px;
+    color: #867060;
+}
+.card-title{
+    font-size: 30px;
+}
+p.card-text{
+    color: #944E63;
+}
+#button{
+    background-color: #DC8686;
+}
