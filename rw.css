@@ -1,0 +1,14 @@
+div.card-header{
+    font-size: 29px;
+    color: #944E63;
+    margin-top: 40px;
+}
+
+a.navbar-brand{
+    font-weight: bolder;
+    font-size: 27px;
+    color: #944E63;
+}
+blockquote{
+   color: #643843; 
+}
