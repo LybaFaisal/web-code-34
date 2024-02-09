@@ -46,3 +46,47 @@ p.card-text{
 #carouselExampleIndicators{
     margin-top: 50px;
 }
+body {
+    background-color: #e4bdde;
+    font-family: 'Arial', sans-serif;
+}
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+.form-group {
+    margin-bottom: 20px;
+}
+label {
+    color:#944E63;
+    font-weight: bold;
+}
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+textarea {
+    resize: vertical;
+    height: 150px;
+}
+.btn-submit {
+    background-color:#a26969;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.btn-submit:hover {
+    background-color: #d650a9;
+}
