@@ -116,7 +116,9 @@ textarea {
     font-size: 24px;
 }
 
-/* 
+/* icons part */
+
+
 .fab {
     font-family: 'Font Awesome 5 Free';
     font-weight: 400;
@@ -152,4 +154,4 @@ textarea {
   }
   .social-icon:hover {
     color: #0077cc;
-  } */
+  }
