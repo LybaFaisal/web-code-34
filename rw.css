@@ -115,3 +115,41 @@ textarea {
 .fixed-message-icon i {
     font-size: 24px;
 }
+
+/* 
+.fab {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 400;
+    margin-right: 5px;
+  }
+  
+  .fab.fa-instagram {
+    content: '\f16d';
+  }
+  
+  .fab.fa-twitter {
+    content: '\f099';
+  }
+  
+  .fab.fa-facebook-f {
+    content: '\f09a';
+  }
+  
+  .fab.fa-linkedin-in {
+    content: '\f08c';
+  }
+
+  .social-icons {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .social-icon {
+    display: inline-block;
+    margin: 0 5px;
+    font-size: 24px;
+    color:#944E63;
+    transition: color 0.3s;
+  }
+  .social-icon:hover {
+    color: #0077cc;
+  } */
